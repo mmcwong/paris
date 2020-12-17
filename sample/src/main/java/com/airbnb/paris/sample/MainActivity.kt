@@ -68,9 +68,9 @@ class MainActivity : AppCompatActivity() {
         }
 
         // Simple hack to set the first style
-        listOf(section1, section2, section3).forEach {
-            it.performClick()
-        }
+//        listOf(section1, section2, section3).forEach {
+//            it.performClick()
+//        }
 
         assertStylesContainSameAttributesAsync()
     }

@@ -26,4 +26,7 @@
         <item name="android:textAppearance">@style/TextAppearance.AppCompat.Large</item>
     </style>
 
+    <style name="TestStyle">
+        <item name="android:background">@color/null_</item>
+    </style>
 </resources>
